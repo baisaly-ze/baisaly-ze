@@ -1,6 +1,12 @@
 # 💫 About Me:
-Hi, I am Baisaly Karmakar<br>I’m currently working on:Turning random late-night ideas into fully functional web apps that look good and work even better<br>I’m looking to collaborate on:<br>Cool MERN projects that solve real problems (or just look really good 👀)<br>I’m looking for help with:<br>Leveling up backend logic & making my apps more scalable<br>I’m currently learning:<br>How to go from “it works” → “this is actually production-ready”<br>Ask me about:<br>Debugging nightmares, React quirks, and building apps from scratch<br>Fun fact:<br>I start with “just trying something” and somehow end up building a full project<br><br><br>
+Hi, I’m Baisaly Karmakar  
 
+🔭 Currently: Turning late-night ideas into clean, functional web apps  
+🤝 Open to: Cool MERN projects that solve real problems  
+🆘 Need help with: Backend scalability & better architecture  
+🌱 Learning: Making apps production-ready  
+💬 Ask me about: React, debugging, and building from scratch  
+⚡ Fun fact: “Just trying something” → full project 😄
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1G5mCYkaGG/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/baisaly_karmakar?igsh=bWN5anF2ZW95YXlr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/baisaly-karmakar-759332321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baisalykarmakar@gmail.com) 
