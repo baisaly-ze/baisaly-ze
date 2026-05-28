@@ -1,8 +1,7 @@
 # 💫Hi, I’m Baisaly Karmakar
 
 🔭 Currently: Turning late-night ideas into clean, functional web apps  
-🤝 Open to: Cool MERN projects that solve real problems  
-🆘 Need help with: Backend scalability & better architecture  
+🤝 Open to: Entry-level roles & MERN stack collaborations  
 🌱 Learning: Making apps production-ready  
 💬 Ask me about: React, debugging, and building from scratch  
 ⚡ Fun fact: “Just trying something” → full project 😄
